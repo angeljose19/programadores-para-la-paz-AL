@@ -1,0 +1,2 @@
+la ruta post permite recibir información de un usuario y sirve para que los ciudadanos envien reportes
+opiniones o solicitudes
