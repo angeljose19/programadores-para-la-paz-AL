@@ -1,0 +1,2 @@
+Al consultar la ruta GET /reportes, el servidor devuelve una lista de reportes almacenados en formato JSON.
+La información se recibe de manera organizada dentro de un arreglo (array), donde cada elemento representa un reporte con sus respectivos datos, como el identificador, el tipo y la descripción.
