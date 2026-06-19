@@ -1,0 +1,1 @@
+El servidor devuelve un objeto JSON con un mensaje de confirmación y los datos enviados.
