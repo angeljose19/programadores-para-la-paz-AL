@@ -1,0 +1,2 @@
+Los comandos de información del sistema muestran datos importantes sobre el servidor, como el sistema operativo instalado, el uso de memoria, el espacio disponible en el disco y el estado de los procesos en ejecución.
+Esta información permite conocer cómo está funcionando el equipo y detectar posibles problemas.

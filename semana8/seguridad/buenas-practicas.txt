@@ -1,0 +1,3 @@
+Proteger las contraseñas utilizando combinaciones seguras de letras, números y símbolos.
+No compartir credenciales de acceso con otras personas para evitar el uso no autorizado de cuentas y servicios.
+Mantener el software y las aplicaciones actualizadas para corregir vulnerabilidades y mejorar la seguridad del sistema.

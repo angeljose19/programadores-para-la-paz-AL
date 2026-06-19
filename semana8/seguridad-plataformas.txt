@@ -1,0 +1,5 @@
+Utilizar contraseñas seguras y cambiarlas periódicamente para proteger las cuentas de los usuarios.
+No compartir credenciales de acceso con otras personas y mantener la información de inicio de sesión privada.
+Mantener la plataforma y sus componentes actualizados para corregir vulnerabilidades de seguridad.
+Realizar copias de seguridad periódicas de la información para evitar la pérdida de datos importantes.
+Controlar los permisos de acceso, asegurando que cada usuario solo pueda acceder a la información y funciones que le correspondan.
